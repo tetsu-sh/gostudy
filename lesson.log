@@ -1,0 +1,60 @@
+2020/06/27 21:10:00 lesson.go:98: logging
+2020/06/27 21:10:00 lesson.go:99: string test
+2020/06/27 21:21:23 lesson.go:98: logging
+2020/06/27 21:21:23 lesson.go:99: string test
+2020/06/27 21:21:23 lesson.go:112: error
+2020/06/27 21:23:38 lesson.go:98: logging
+2020/06/27 21:23:38 lesson.go:99: string test
+2020/06/27 21:23:38 lesson.go:102: file not found
+2020/06/27 21:23:38 lesson.go:108: Error
+2020/06/27 21:23:38 lesson.go:113: error
+2020/06/27 21:43:29 lesson.go:98: logging
+2020/06/27 21:43:29 lesson.go:99: string test
+2020/06/27 21:43:29 lesson.go:102: file not found
+2020/06/27 21:43:29 lesson.go:108: Error
+2020/06/27 21:43:29 lesson.go:113: error
+2020/06/27 21:43:47 lesson.go:98: logging
+2020/06/27 21:43:47 lesson.go:99: string test
+2020/06/27 21:43:47 lesson.go:102: file not found
+2020/06/27 21:43:47 lesson.go:108: Error
+2020/06/27 21:43:47 lesson.go:113: error
+2020/06/27 21:44:02 lesson.go:98: logging
+2020/06/27 21:44:02 lesson.go:99: string test
+2020/06/27 21:44:02 lesson.go:102: file not found
+2020/06/27 21:44:02 lesson.go:108: Error
+2020/06/27 21:44:02 lesson.go:113: error
+2020/06/27 21:46:16 lesson.go:98: logging
+2020/06/27 21:46:16 lesson.go:99: string test
+2020/06/27 21:46:16 lesson.go:102: file not found
+2020/06/27 21:46:16 lesson.go:108: Error
+2020/06/27 21:46:16 lesson.go:113: error
+2020/06/28 00:10:47 lesson.go:98: logging
+2020/06/28 00:10:47 lesson.go:99: string test
+2020/06/28 00:10:47 lesson.go:102: file not found
+2020/06/28 00:10:47 lesson.go:108: Error
+2020/06/28 00:10:47 lesson.go:113: error
+2020/06/28 00:14:41 lesson.go:98: logging
+2020/06/28 00:14:41 lesson.go:99: string test
+2020/06/28 00:14:41 lesson.go:102: file not found
+2020/06/28 00:14:41 lesson.go:108: Error
+2020/06/28 00:14:41 lesson.go:113: error
+2020/06/28 00:21:34 lesson.go:98: logging
+2020/06/28 00:21:34 lesson.go:99: string test
+2020/06/28 00:21:34 lesson.go:102: file not found
+2020/06/28 00:21:34 lesson.go:108: Error
+2020/06/28 00:21:34 lesson.go:113: error
+2020/06/28 00:23:47 lesson.go:98: logging
+2020/06/28 00:23:47 lesson.go:99: string test
+2020/06/28 00:23:47 lesson.go:102: file not found
+2020/06/28 00:23:47 lesson.go:108: Error
+2020/06/28 00:23:47 lesson.go:113: error
+2020/06/28 00:24:28 lesson.go:98: logging
+2020/06/28 00:24:28 lesson.go:99: string test
+2020/06/28 00:24:28 lesson.go:102: file not found
+2020/06/28 00:24:28 lesson.go:108: Error
+2020/06/28 00:24:28 lesson.go:113: error
+2020/06/28 00:24:36 lesson.go:98: logging
+2020/06/28 00:24:36 lesson.go:99: string test
+2020/06/28 00:24:36 lesson.go:102: file not found
+2020/06/28 00:24:36 lesson.go:108: Error
+2020/06/28 00:24:36 lesson.go:113: error
